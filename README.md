@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://twitter.com/intent/follow?screen_name=davzoku&tw_p=followbutton"><img src="https://img.shields.io/badge/@davzoku-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height= "20"></a>
-  <a href="https://www.linkedin.com/in/tengkokwai/"><img src="https://img.shields.io/badge/Walter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height= "20"></a><img src="https://gpvc.arturio.dev/davzoku" alt="profile views">
+  <a href="https://www.linkedin.com/in/tengkokwai/"><img src="https://img.shields.io/badge/Walter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height= "20"></a> <img src="https://gpvc.arturio.dev/davzoku" alt="profile views">
  <br />
   <a href="https://walterteng.com">walterteng.com</a> 
 </p>

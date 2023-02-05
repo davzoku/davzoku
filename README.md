@@ -6,5 +6,10 @@
   <a href="https://walterteng.com">walterteng.com</a> 
 </p>
 
+#### Recent Writings
+
+<!--START_SECTION:posts-->
+<!--END_SECTION:posts-->
+
 | ![davzoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=davzoku&theme=react&hide_border=true&show_icons=true&hide=issues,contribs) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davzoku&exclude_repo=npp-portable-EX&layout=compact&theme=react&langs_count=6&hide_border=true) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

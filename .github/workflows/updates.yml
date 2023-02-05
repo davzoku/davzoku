@@ -1,0 +1,22 @@
+name: updates
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
+  push:
+    branches:
+      - main
+
+jobs:
+  updates:
+    name: Updates
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update this repo's README
+        uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://walterteng.com/rss.xml
+          readme-section: posts
+          empty-commits: "false"

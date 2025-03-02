@@ -1,4 +1,4 @@
-<p align="center"><a href="https://walterteng.com"><img  src="./images/banner.png" /></a></p>
+<p align="center"><a href="https://walterteng.com"><img src="./assets/banner.png" /></a></p>
 
 <p align="center">
     <a href="https://twitter.com/intent/follow?screen_name=davzoku&tw_p=followbutton"><img src="https://img.shields.io/badge/@davzoku-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height= "20"></a>
@@ -18,15 +18,15 @@
 - [Jupyter Tips &amp; Tricks for Python, R, Julia](https://walterteng.com/jupyter-tips)
 <!--END_SECTION:posts-->
 
-| ![davzoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=davzoku&theme=react&hide_border=true&show_icons=true&hide=issues,contribs) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davzoku&exclude_repo=npp-portable-EX&layout=compact&theme=react&langs_count=6&hide_border=true) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img align="center" src="./assets/metrics/intro_metrics.svg"/> | <img align="center" src="./assets/metrics/lang_metrics.svg"/> |
+| -------------------------------------------------------------- | ------------------------------------------------------------- |
 
 <!--START_SECTION:metrics-->
 <details>
-  <summary><b>👨‍💻 Stats</b></summary>
+  <summary><b>👨‍💻 More Stats!</b></summary>
   <p align="center">
     <a>
-      <img align="center" src="https://github.com/davzoku/davzoku/blob/54ce0051f9b10b03c212ea167605f084208361f4/github-metrics.svg"/>
+      <img align="center" src="./assets/metrics/additional_metrics.svg"/>
     </a>
   </p>
 </details>

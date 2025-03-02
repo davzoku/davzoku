@@ -39,7 +39,7 @@ jobs:
           plugin_topics_sort: stars
           plugin_traffic: yes
       - name: Upload Intro Metrics Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@latest
         with:
           name: intro-metrics-artifact
           path: assets/metrics/intro_metrics.svg
@@ -80,7 +80,7 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit, pull_requestz
       - name: Upload Lang Metrics Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@latest
         with:
           name: lang-metrics-artifact
           path: assets/metrics/lang_metrics.svg
@@ -195,7 +195,7 @@ jobs:
           plugin_topics_sort: stars
         #   plugin_traffic: yes
       - name: Upload additional Metrics Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@latest
         with:
           name: additional-metrics-artifact
           path: assets/metrics/additional_metrics.svg

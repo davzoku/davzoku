@@ -10,12 +10,11 @@
 #### Recent Writings
 
 <!--START_SECTION:posts-->
-
-- [CRIA Chat](https://walterteng.com/cria)
-- [Paperwise](https://walterteng.com/paperwise)
-- [Obsidian Plugins to Supercharge your Note-Taking Experience](https://walterteng.com/obsidian-plugins)
-- [Walter Teng CLI](https://walterteng.com/walter-teng-cli)
-- [Jupyter Tips &amp; Tricks for Python, R, Julia](https://walterteng.com/jupyter-tips)
+* [Deprecation Cycles and Side Projects](https:&#x2F;&#x2F;walterteng.com&#x2F;deprecation-cycles-and-side-projects)
+* [CRIA Chat](https:&#x2F;&#x2F;walterteng.com&#x2F;cria)
+* [Paperwise](https:&#x2F;&#x2F;walterteng.com&#x2F;paperwise)
+* [Obsidian Plugins to Supercharge your Note-Taking Experience](https:&#x2F;&#x2F;walterteng.com&#x2F;obsidian-plugins)
+* [Walter Teng CLI](https:&#x2F;&#x2F;walterteng.com&#x2F;walter-teng-cli)
 <!--END_SECTION:posts-->
 
 | <img align="center" src="./assets/metrics/intro_metrics.svg"/> | <img align="center" src="./assets/metrics/lang_metrics.svg"/> |

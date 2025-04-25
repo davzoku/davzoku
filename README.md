@@ -10,11 +10,11 @@
 #### Recent Writings
 
 <!--START_SECTION:posts-->
+* [HTML Preview Web Extension](https:&#x2F;&#x2F;walterteng.com&#x2F;html-preview-web-extension)
+* [QuickEdit](https:&#x2F;&#x2F;walterteng.com&#x2F;quickedit)
 * [Deprecation Cycles and Side Projects](https:&#x2F;&#x2F;walterteng.com&#x2F;deprecation-cycles-and-side-projects)
 * [CRIA Chat](https:&#x2F;&#x2F;walterteng.com&#x2F;cria)
 * [Paperwise](https:&#x2F;&#x2F;walterteng.com&#x2F;paperwise)
-* [Obsidian Plugins to Supercharge your Note-Taking Experience](https:&#x2F;&#x2F;walterteng.com&#x2F;obsidian-plugins)
-* [Walter Teng CLI](https:&#x2F;&#x2F;walterteng.com&#x2F;walter-teng-cli)
 <!--END_SECTION:posts-->
 
 | <img align="center" src="./assets/metrics/intro_metrics.svg"/> | <img align="center" src="./assets/metrics/lang_metrics.svg"/> |

@@ -10,11 +10,11 @@
 #### Recent Writings
 
 <!--START_SECTION:posts-->
-* [HTML Preview Web Extension](https:&#x2F;&#x2F;walterteng.com&#x2F;html-preview-web-extension)
-* [QuickEdit](https:&#x2F;&#x2F;walterteng.com&#x2F;quickedit)
-* [Deprecation Cycles and Side Projects](https:&#x2F;&#x2F;walterteng.com&#x2F;deprecation-cycles-and-side-projects)
-* [CRIA Chat](https:&#x2F;&#x2F;walterteng.com&#x2F;cria)
+* [Getting Started with Architectural Decision Records (ADR) for Your Project](https:&#x2F;&#x2F;walterteng.com&#x2F;adr)
+* [How I Built My Website (v2)](https:&#x2F;&#x2F;walterteng.com&#x2F;how-i-built-my-website-v2)
+* [How I Built My Website (v1)](https:&#x2F;&#x2F;walterteng.com&#x2F;how-i-built-my-website-v1)
 * [Paperwise](https:&#x2F;&#x2F;walterteng.com&#x2F;paperwise)
+* [Walter&#39;s Questions](https:&#x2F;&#x2F;walterteng.com&#x2F;walters-questions)
 <!--END_SECTION:posts-->
 
 | <img align="center" src="./assets/metrics/intro_metrics.svg"/> | <img align="center" src="./assets/metrics/lang_metrics.svg"/> |

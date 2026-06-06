@@ -10,8 +10,8 @@
 #### Recent Writings
 
 <!--START_SECTION:posts-->
-* [Getting Started with Architectural Decision Records (ADR) for Your Project](https:&#x2F;&#x2F;walterteng.com&#x2F;adr)
 * [How I Built My Website (v2)](https:&#x2F;&#x2F;walterteng.com&#x2F;how-i-built-my-website-v2)
+* [Getting Started with Architectural Decision Records (ADR) for Your Project](https:&#x2F;&#x2F;walterteng.com&#x2F;adr)
 * [How I Built My Website (v1)](https:&#x2F;&#x2F;walterteng.com&#x2F;how-i-built-my-website-v1)
 * [Paperwise](https:&#x2F;&#x2F;walterteng.com&#x2F;paperwise)
 * [Walter&#39;s Questions](https:&#x2F;&#x2F;walterteng.com&#x2F;walters-questions)
